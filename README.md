@@ -8,3 +8,4 @@
 3.	将input_text.txt中句子提取出的三元组输出到knowledge_triple.json中
 
 
+http://ltp.ai/download.html，   选择 ltp_data_v3.4.0.zip
