@@ -9,5 +9,5 @@ http://ltp.ai/download.html  选择 ltp_data_v3.4.0.zip
 3.	将input_text.txt中句子提取出的三元组输出到knowledge_triple.json中
 4.  insert_to_neo4j.py 将三元组存入知识库
 
-
+Ref: https://github.com/lemonhu/open-entity-relation-extraction
 
